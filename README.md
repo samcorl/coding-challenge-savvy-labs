@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a draft work-up of a GraphQL app built for 
+a job interview coding challenge for a company named
+Savvy Labs.
 
-Things you may want to cover:
+This is not finished or tested software. It does work, but 
+should only be used for reference, not in any production environment.
 
-* Ruby version
+* Ruby 3.2.2
 
-* System dependencies
+* SQLLite in this version, though the JSONb requirement needs something like PostgresQL
 
-* Configuration
+### Use at your own risk!
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
